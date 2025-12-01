@@ -5,11 +5,7 @@
 
 ### This is the choice of the Steins Gate...
 
-
-Hi, I am Cuviko and I am currently learning web development while also being interested in game development.
-
-
-
 <samp>
+    <p>Hi, I am Cuviko and I am currently learning web development while also being interested in game development.</p>
     <strong>Currently learning:</strong> HTML, CSS, JavaScript, PICO-8.
 </samp>
